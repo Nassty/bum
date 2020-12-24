@@ -1,0 +1,3 @@
+r = cos(t * x) + cos(t*y);
+g = cos(t);
+b = cos(t * y);
